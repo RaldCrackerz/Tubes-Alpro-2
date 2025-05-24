@@ -167,7 +167,7 @@ func main() {
     addTeam("Bravo")
     addTeam("Charlie")
 
-    var choice int
+     var choice int
     for {
         fmt.Println("\nMenu:")
         fmt.Println("1. Tambah/ubah/hapus tim")
